@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "170740088165",
+    "firebase_url": "https://alertsystem-a0da6.firebaseio.com",
+    "project_id": "alertsystem-a0da6",
+    "storage_bucket": "alertsystem-a0da6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170740088165:android:9e5682afdc096856",
+        "android_client_info": {
+          "package_name": "com.example.android.avantealertsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170740088165-gpu4gnp9r1lgp54tlsmjribebbjrq8un.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdonw3QbkUeR5mqqn3b1qckFOezXsI1fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170740088165-gpu4gnp9r1lgp54tlsmjribebbjrq8un.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
