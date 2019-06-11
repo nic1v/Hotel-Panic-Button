@@ -41,7 +41,7 @@ public class AlertFragment extends Fragment {
                              Bundle savedInstanceState) {
         View rootView = inflater.inflate(R.layout.fragment_alert, container, false);
         vibrator =  (Vibrator) getContext().getSystemService(Context.VIBRATOR_SERVICE);
-        noActiveAlerts = (TextView) rootView.findViewById(R.id.tv_no_alerts);
+        noActiveAlerts = (TextView) rootView.findViewById(R.id.tv_no_alerts); 
         swipeRefreshLayout = (SwipeRefreshLayout) rootView.findViewById(R.id.scrollView2);
         swipeRefreshLayout.setOnRefreshListener(new SwipeRefreshLayout.OnRefreshListener() {
             @Override
